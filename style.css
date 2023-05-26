@@ -1,0 +1,35 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+/*nav bar*/
+.navbar{
+    background-color:rgb(15, 0, 66);
+    height: 120px;
+}
+
+.navbar-brand img{
+    width: 80px;
+    height: 80px;
+}
+.navbar-brand a{
+    text-decoration: none;
+    color:rgb(236, 233, 233);
+    margin-left: 30px;
+    font-weight: 600;
+    
+    
+}
+.nav{
+    color: rgb(236, 233, 233);;
+    text-decoration:none;
+    margin-right: 15px;
+    font-weight: 600;
+    padding: 10px;
+    font-size: 18px;
+    transition: all;
+}
+.nav:hover{
+   color: rgb(168, 163, 163);
+ }
+
+
